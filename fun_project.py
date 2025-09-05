@@ -307,3 +307,4 @@ story_line_day_2=[
 ]
 show_scene(story_line_day_2)
 
+fldkdlajdlksjdlkajdkldal
