@@ -252,7 +252,7 @@ while mistake:
         (':',"what will i do now")
         ]
 def show_scene(scene):
-    for character,line in after_the_console:
+    for character,line in scene:
       print(f'{character}: {line}')
       input()
 def start():
@@ -296,7 +296,7 @@ story_line_day_2=[
   (player_name,'HOTARRRRUUU!!!!!!'),
   ('hotaru','don\'t shout am comming'),
   (player_name,'here eat while its hot'),
-  ('hotaru','lets dig it in !!!!'),
+  ('hotaru','lets dig it in !!!!!!'),
   (':','while she is eating ,i decide to ready of the school'),
   (':','brushed ,bathed,fit check,everything is perfect'),
   (':','hotaru also ready to depart to school'),
