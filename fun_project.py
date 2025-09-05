@@ -306,4 +306,5 @@ story_line_day_2=[
   (":",'in the bus stop yoimiya is there')
 ]
 show_scene(story_line_day_2)
+helllo its new code
 
